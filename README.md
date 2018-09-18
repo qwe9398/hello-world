@@ -1,4 +1,4 @@
 # hello-world
-just a test /n
-I'm Qin, this is a test.   I want upload and download codes./n
+just a test
+I'm Qin, this is a test.   I want upload and download codes.
 Is that ok?
